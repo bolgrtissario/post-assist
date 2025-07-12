@@ -1,1 +1,1 @@
-<b:if cond='data:blog.pageType == &quot;item&quot;'><script>/*<![CDATA[*/document.addEventListener("DOMContentLoaded",()=>{if("#assist"===window.location.hash){let t=document.querySelectorAll(".product-container .buy-button");0===t.length&&(t=document.querySelectorAll("a[href*='amazon.com'], a[href*='amzn.to']")),t.length>0&&(t[0].scrollIntoView({behavior:"smooth",block:"center"}),t[Math.floor(Math.random()*t.length)].click())}});/*]]>*/</script></b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><script></script></b:if>
